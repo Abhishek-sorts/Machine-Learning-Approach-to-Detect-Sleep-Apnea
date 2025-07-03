@@ -1,5 +1,4 @@
 # Machine-Learning-Approach-to-Detect-Sleep-Apnea
-# Sleep Apnea Detection Using Machine Learning 🧠💤
 
 This project aims to develop a machine learning-based system for the early detection of **Sleep Apnea**, using pre-recorded health and lifestyle data. It uses a **Random Forest Classifier** and compares it with other popular algorithms such as SVM, KNN, and AdaBoost.
 
